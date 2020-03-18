@@ -1,0 +1,8 @@
+{
+	"maxGenerations": 3000,
+	"updateTime" : 10,			
+	"numRows" : 90,			
+	"numCols" :  150, 		
+	"gridHeight" : 900, 	
+	"gridWidth" : 1500
+}
