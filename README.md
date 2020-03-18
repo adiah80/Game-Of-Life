@@ -1,5 +1,7 @@
 # Conway's Game Of Life
 
+Pure Python implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) for some special initializations.
+
 ## Executing the program : 
 
 To run the provided pattern initializations with the least hassle, simply run `python3 user_input.py` in a terminal.
@@ -27,6 +29,9 @@ If you want to experiment a little more with the initial pattern and simulation 
 
 
 ## Implemented shapes :
+
+Most patterns are implmented as described in [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns).
+
 - Block
 - BeeHive
 - Loaf
@@ -46,30 +51,30 @@ If you want to experiment a little more with the initial pattern and simulation 
 
 ## Program outputs : 
 
-- Initialization0 : StillLife
+### Initialization0 : StillLife
   ![](/gifs/gif_0.gif)
 
-- Initialization1 : Oscillators
+### Initialization1 : Oscillators
  ![](/gifs/gif_1.gif)
  
-- Initialization2 : AcornSpread
+### Initialization2 : AcornSpread
  ![](/gifs/gif_2.gif)
  
-- Initialization3 : EngineSpread
+### Initialization3 : EngineSpread
  ![](/gifs/gif_3.gif)
  
-- Initialization4 : Guns
+### Initialization4 : Guns
  ![](/gifs/gif_4.gif)
  
-- Initialization5 : Pulsars
+### Initialization5 : Pulsars
  ![](/gifs/gif_5.gif)
  
-- Initialization6 : ShipsSimple
+### Initialization6 : ShipsSimple
  ![](/gifs/gif_6.gif)
  
-- Initialization7 : ShipsCollision
+### Initialization7 : ShipsCollision
  ![](/gifs/gif_7.gif)
  
-- Initialization8 : ShipsDestroyed
+### Initialization8 : ShipsDestroyed
  ![](/gifs/gif_8.gif)
 
